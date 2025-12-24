@@ -1,5 +1,7 @@
 # Angular Stripe Payment Integration
 
+Detail Documentation: https://therightsw.com/angular-stripe-integration/
+
 A simple Angular application with integrated Express backend for Stripe payment processing.
 
 ## Prerequisites
